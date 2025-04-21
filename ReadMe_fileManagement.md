@@ -2,6 +2,7 @@
 For the all the coding labs, we will use a single repository, with the following folder structure.
 
 NDS_homework
+
 ├── notebooks
 │   └── AI_CodingLab1.ipynb
 │   └── MD_CodingLab1.ipynb
@@ -15,6 +16,7 @@ NDS_homework
 Given that Git becomes very slow with many data files, I suggest we keep the data in a different folder, and only do version control with `NDS_homework`.
 
 NDS_data
+
 │   └── nds_cl_1.csv
 │   └── nds_cl_2.csv
 │   └── ...
